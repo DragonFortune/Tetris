@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btn_play_style">
+        <item name="background">@drawable/play_btn_bg</item>
+        <item name="android:radius">16dp</item>
+        <item name="drawableEndCompat">@drawable/play_btn_bg</item>
+
+    </style>
+</resources>
