@@ -5,4 +5,5 @@
     <color name="background">#9E9E9E</color>
     <color name="green">#5A7547</color>
     <color name="play_btn_bg">#475A75</color>
+    <color name="game_bg">#FCCA46</color>
 </resources>

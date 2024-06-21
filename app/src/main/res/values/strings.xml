@@ -2,4 +2,8 @@
     <string name="app_name">Tetris</string>
     <string name="main_title">Tetris</string>
     <string name="play">Играть</string>
+    <string name="left_btn">◁</string>
+    <string name="tern_emj">↻</string>
+    <string name="right_btn">▷</string>
+    <string name="bottom_btn">▽</string>
 </resources>
