@@ -7,7 +7,6 @@ import android.widget.Button
 import android.widget.GridLayout
 import android.widget.TextView
 import androidx.core.content.ContextCompat
-import androidx.core.os.postDelayed
 import kotlin.random.Random
 import kotlin.random.nextInt
 
